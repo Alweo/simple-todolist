@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iransans-fd";
+  src: url("../font/persian/iransans/NonEnglish/IRANSansXNoEn-Regular.ttf");
+}
+
+@font-face {
+  font-family: "iransans";
+  src: url("../font/persian/iransans/iransansX-family/IRANSansX-Regular.ttf");
+}
+
+@font-face {
+  font-family: "mikhak-fd";
+  src: url("../font/persian/mikhak/ttf/FD/Mikhak-DS1-FD-Regular.ttf");
+}
+
+@font-face {
+  font-family: "mikhak";
+  src: url("../font/persian/mikhak/ttf/Mikhak-DS1-Regular.ttf");
+}
+
+@font-face {
+  font-family: "vazir-fd";
+  src: url("../font/persian/vazir/Farsi-Digits-Without-Latin/Vazir-FD-WOL.ttf");
+}
+
+@font-face {
+  font-family: "vazir";
+  src: url("../font/persian/vazir/Vazir.ttf");
+}
+
+@font-face {
+  font-family: "kharazmi";
+  src: url("../font/persian/iran-kharazmi/IRAN-Kharazmi.ttf");
+}
+
+@font-face {
+  font-family: "iranfamily-fd";
+  src: url("../font/persian/iran-family/Farsi_numerals/IRAN\(FaNum\).ttf");
+}
+
+@font-face {
+  font-family: "iranfamily";
+  src: url("../font/persian/iran-family/IRAN.ttf");
+}
+
+/* -------------------- english fonts */
+
+@font-face {
+  font-family: "merge-lite";
+  src: url("../font/english/merge-light/merge_light.otf");
+}
+
+@font-face {
+  font-family: "nunito";
+  src: url("../font/english/nunito/Nunito-Regular.ttf");
+}
+
+@font-face {
+  font-family: "sp-butch-lite";
+  src: url("../font/english/sp-butch-lite/SpButchLiteLight-Yq338.otf");
+}
+
+@font-face {
+  font-family: "tecnico";
+  src: url("../font/english/tecnico/tecnico_regular.ttf");
+}
